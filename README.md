@@ -9,6 +9,10 @@ This project is a simple countdown timer that focuses on learning the `useRef` h
 1. **Referencing a DOM element directly** — to auto-focus the Start button when the component first mounts
 2. **Persisting a value across renders** — to hold the interval ID without causing a re-render
 
+## Live Demo
+
+**➡️ [View Live App](https://dikidikay-simple-timer.netlify.app/)**
+
 ## What I Learned
 
 ### `useRef` to Reference a DOM Element
